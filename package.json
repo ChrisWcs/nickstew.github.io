@@ -2,19 +2,19 @@
   "name": "nickstew.github.io",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "Personal website for Nick Stewart",
+  "description": "Personal website for Christian Hansen",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickstew/nickstew.github.io.git"
+    "url": "git+https://github.com/ChrisWcs/ChrisWcs.github.io.git"
   },
   "bugs": {
     "url": "https://github.com/nickstew/nickstew.github.io/"
   },
-  "homepage": "https://nickstew.github.io",
+  "homepage": "https://ChrisWcs.github.io",
   "author": {
-    "name": "Nick Stewart",
-    "email": "nick.stewart.programmer@gmail.com",
-    "url": "https://nickstew.github.io"
+    "name": "Christian Hansen",
+    "email": "cswcsdcs@gmail.com",
+    "url": "https://ChrisWcs.github.io"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",
