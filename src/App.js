@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import About from './About';
-import MainProjects from './MainProjects';
-import OtherProjects from './OtherProjects';
+import Projects from './Projects';
 import WorkExperience from './WorkExperience';
 import Github from './Github';
 import Footer from './Footer';
@@ -20,6 +19,7 @@ class App extends Component {
           <div className="row">
             <div className="primary col-md-8 col-sm-12 col-xs-12">
               <About />
+              <Projects />
               <WorkExperience />
               <Github />
             </div>
