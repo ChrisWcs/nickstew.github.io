@@ -1,11 +1,12 @@
-## nickstew.github.io
+## ChrisWcs.github.io
 
-**Demo:** http://nickstew.github.io/
+**Demo:** http://ChrisWcs.github.io/
 
 Professional website using React, JSON Resume and the wonderful responsive template project [Developer-Theme](https://github.com/xriley/Developer-Theme) by [Xiaoying Riley](https://github.com/xriley).
 
 ## Credits
 
+- [Forked from this excellent portfolio](https://github.com/nickstew/nickstew.github.io)
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [jQuery](http://jquery.com/)
