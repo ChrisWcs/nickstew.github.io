@@ -513,6 +513,14 @@ iframe {
 .footer .fa-heart {
   color: #fb866a;
 }
+.extra-top-margin{
+  margin-top: 20px;
+}
+
+.extra-left-margin{
+  margin-left: 10px;
+}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {

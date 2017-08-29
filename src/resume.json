@@ -73,6 +73,13 @@
             "demo": "https://ChrisWcs.github.io",
             "website": "https://github.com/ChrisWcs/ChrisWcs.github.io",
             "summary": "This website is a static single-page application developed using React.js in pure functional code. It extends the amazing template designed by Xiaoying Riley, ported over to React.js, and uses JSON Resume schema to store a Curriculum Vitae in JSON format."
+        },
+        {
+            "name": "Line Plotter",
+            "publisher": "Christian Hansen",
+            "demo": "https://github.com/ChrisWcs/LinePlotter",
+            "website": "https://github.com/ChrisWcs/LinePlotter",
+            "summary": "This website is an single page app that allows the user to plot lines in the form of y = mx + b. It uses an excellent project called react-charts"
         }
     ],
     "skills": [

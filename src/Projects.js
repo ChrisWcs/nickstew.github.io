@@ -6,7 +6,7 @@ const IndividualProj = ({ name, summary, demo, website }) => (
     <h4>{name}</h4>
     <p>{summary}</p>
     <a className="btn btn-cta-secondary" href={demo}>Demo</a>
-    <a className="btn btn-cta-secondary" href={website}>Github</a>
+    <a className="btn btn-cta-secondary extra-left-margin" href={website}>Github</a>
   </div>
 );
 
@@ -16,7 +16,7 @@ const Projects = () => (
       <h2 className="heading">Projects</h2>
       <div className="content">
         {resume.publications.map( publication => <IndividualProj {...publication} />  )}
-        <a className="btn btn-cta-secondary" href="https://github.com/ChrisWcs">
+        <a className="btn btn-cta-primary extra-top-margin" href="https://github.com/ChrisWcs">
           More on GitHub <i className="fa fa-chevron-right"></i>
         </a>
       </div>
