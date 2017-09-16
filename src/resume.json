@@ -33,16 +33,16 @@
     },
     "work": [
         {
-            "company": "Xtrac Solutions",
-            "position": "Software Developer",
-            "website": "http://www.xtracsolutions.com/",
-            "startDate": "2012-07-01",
-            "endDate": "2013-09-01",
-            "summary": "Salt Lake City, Utah",
+            "company": "Waterford Institute",
+            "position": "Fulfillment Intern",
+            "website": "https://www.waterford.org/",
+            "startDate": "2017-05-01",
+            "endDate": "2017-08-20",
+            "summary": "Sandy, Utah",
             "highlights": [
-                "Designed and implemented solutions to execute Business Process Modeling Notation (BPMN) models.",
-                "Built Spring resources in Scala for Web based client.",
-                "Resolved issues dealing with dependency management in Maven as well as assisting with management of Jenkins Continuous Integration Server."
+                "Cleaned and re-imaged 50 Chromebooks daily",
+                "Cleaned and assisted in maintenance of Raspberry Pi equipment",
+                "Organized, cleaned, and maintained Inventory areas"
             ]
         }
     ],
