@@ -14,7 +14,7 @@ class SkillSet extends Component {
           <h2 className="heading">Skills</h2>
           <div className="content">
             <p className="intro">
-              I've been working in Javascript for a few years and have been enjoying how much there is to learn.  React has become one of my favorite front-end libraries and I use it in my personal projects.
+              I have been learning about the FrontEnd of the web development world for over a year now and I love working in JavaScript. I enjoy using React and Vue in my personal projects.
             </p>
             <div className="skillset">
               {resume.skills.map((skill, index) => (

@@ -34,6 +34,11 @@ class BasicInfo extends Component {
                 <span className="sr-only">Website:</span>
                 <a href={resume.basics.website}>{resume.basics.website}</a>
               </li>
+              <li>
+                <i className="fa fa-link"></i>
+                <span className="sr-only">Website:</span>
+                <a href={resume.basics.blog}>Personal Medium Publication - MtnJS</a>
+              </li>
             </ul>
           </div>
         </div>
