@@ -56,14 +56,6 @@
             "endDate": "2018-12-30",
             "summary": "Salt Lake City, Utah",
             "courses": [
-                "Enterprise Application Design",
-                "User Interface Design and Development",
-                "Web Technologies",
-                "Computational Theory",
-                "Design and Analysis of Algorithms",
-                "Database Management Systems",
-                "Java Programming",
-                "C# Programming"
             ]
         }
     ],
@@ -78,9 +70,9 @@
         {
             "name": "Line Plotter",
             "publisher": "Christian Hansen",
-            "demo": "https://github.com/ChrisWcs/LinePlotter",
+            "demo": "https://lineplotter.surge.sh",
             "website": "https://github.com/ChrisWcs/LinePlotter",
-            "summary": "This website is an single page app that allows the user to plot lines in the form of y = mx + b. It uses an excellent project called react-charts"
+            "summary": "This is an single page app that allows the user to plot lines in the form of y = mx + b. It uses an excellent open source project called react-charts and an excellent boilerplate called React Slingshot"
         }
     ],
     "skills": [
